@@ -1,0 +1,4 @@
+__pycache__/  -ignore python cache floders.
+  .pyc   -ignore compiled python files                                         
+  .env   - ignore environment variable files.                   
+  venv/  -ignore the python virtual environment
